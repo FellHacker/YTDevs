@@ -6,7 +6,7 @@ UI.esp=import('esp.lua')
 ```
 As it is incomplete there is still only one value
 
-## UI Classes
+## ESP Classes
 ## addEsp2d
 - string Text
 - Object To
